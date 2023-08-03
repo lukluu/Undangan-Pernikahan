@@ -13,15 +13,16 @@
 }
 
 .bg-berem {
-  background-color: #8785a2;
+  background-color: #887923;
 }
 
 .text-berem {
-  color: #828191;
+  color: #ffffff;
 }
 
-.bg-wakwak {
-  background-color: #ffe2e2;
+.bg-wakwak,
+.sade {
+  background-color: #141414;
 }
 
 .text-wakwak {
