@@ -13,7 +13,7 @@
 }
 
 .bg-berem {
-  background-color: #887923;
+  background-color: darkgoldenrod;
 }
 
 .text-berem {
@@ -34,7 +34,7 @@
 }
 
 .bg-kulit {
-  background-color: #ffc7c7;
+  background-color: darkgoldenrod;
 }
 
 .fs-60 {
@@ -62,7 +62,14 @@
   border: none;
   outline: none;
 }
-
+.a,
+.b,
+.c,
+.d,
+.e,
+.f {
+  color: darkgoldenrod;
+}
 @media (max-width: 640px) {
   /* h1 {
     font-size: 1.5rem !important;
@@ -70,6 +77,14 @@
   .hari-h {
     background-color: #f6f6f6;
     padding: 10px;
+  }
+  .a,
+  .b,
+  .c,
+  .d,
+  .e,
+  .f {
+    color: #141414;
   }
   #front-image {
     display: none;
