@@ -15,7 +15,9 @@
 .bg-berem {
   background-color: darkgoldenrod;
 }
-
+.text-light {
+  color: darkgoldenrod !important;
+}
 .text-berem {
   color: #ffffff;
 }
@@ -75,26 +77,29 @@
     font-size: 1.5rem !important;
   } */
   .hari-h {
-    background-color: #f6f6f6;
+    color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+    background-color: darkgoldenrod;
     padding: 10px;
   }
-  .a,
+  /* .a,
   .b,
   .c,
   .d,
   .e,
   .f {
-    color: #141414;
-  }
+    color: #141414; */
+
   #front-image {
     display: none;
   }
-  #front-text {
+  /* #front-text {
     padding-top: 40%;
     height: 100vh;
     background-image: url(../img/img3-foreground.jpg);
     background-size: cover;
-  }
+  } */
 }
 
 #front-image img {
